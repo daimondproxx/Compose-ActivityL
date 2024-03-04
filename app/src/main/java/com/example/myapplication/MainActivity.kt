@@ -186,7 +186,7 @@ fun ScaffoldExample() {
                     modifier = Modifier
                         .padding(start = 28.dp, bottom = 16.dp)
                         .size(335.dp, 48.dp)
-                        .clip(RoundedCornerShape(12.dp))
+                        .clip(RoundedCornerShape(22.dp))
 
                 )
 
